@@ -21,7 +21,20 @@
 
 
 
+.btn:hover  {
+  background-color:  #2ad81b;
+  color:white;
+  
+  left: 31%;
+  margin-top: 20px;
+  height: 30px;
+  width: 80%;
+  outline: none;
+  border: 1px dashed #21cdd3;
+  border-radius: 0.2em;
+  cursor: pointer;
 
+}
 
 .btn{
   background-color:  #21cdd3;
