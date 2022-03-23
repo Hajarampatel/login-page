@@ -1,0 +1,62 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+ body {
+  height: 100%;
+  background-image: url('login1.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  align-items: center;
+  text-align: center;
+}
+.mg {
+  margin-top: 15px;
+}
+
+
+
+
+
+
+.btn{
+  background-color:  #21cdd3;
+  color:white;
+  
+  left: 31%;
+  margin-top: 20px;
+  height: 30px;
+  width: 80%;
+  outline: none;
+  border: 1px dashed #21cdd3;
+  border-radius: 0.2em;
+  cursor: pointer;
+
+}
+
+h3 {
+  margin-top: 15px;
+}
+.division {
+  
+  margin-top: 150px;
+  height: 300px;
+  width: 300px;
+  border: 0.4em #21cdd3 solid;
+  border-radius: .8em;
+  text-align: center; 
+  margin-left: 30%;
+  
+  
+}
+
+
+textarea {
+  width: 80%;
+  height: 25px;
+  resize: none;
+}
